@@ -7,6 +7,6 @@ I have a strong foundation in C and C++, and I’m currently learning Java to ex
 
 Skills: C / C++ / Java (Learning)
 
-🌱 Currently learning Java
-👯 Open to collaboration on GitHub
-💬 Ask me about algorithms, problem-solving, and backend development
+-🌱 Currently learning Java
+-👯 Open to collaboration on GitHub
+-💬 Ask me about algorithms, problem-solving, and backend development
