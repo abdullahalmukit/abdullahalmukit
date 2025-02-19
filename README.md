@@ -1,6 +1,7 @@
+![Software Engineer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/480459810_1990680741344349_1771740542813499524_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHrZqus4pGaa6sMrX5SsnVaRoEIttCLHZBGgQi20IsdkALByIYnTDykIqFuxnH4UuLLCREXQldyiqxqmV-9tkCE&_nc_ohc=bTcoToFrhjgQ7kNvgHHwaE2&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=ArEfXHN9i3gYAsvuDtRvHVJ&oh=00_AYBvSW-Z-qryAUpuiF8AH7F_LueVSMzGGQd8ZMzH-TCI2w&oe=67B7C8D1)
+
 ### Hi there 👋, I'm Mukit
 #### Software Engineer
-![Software Engineer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/480459810_1990680741344349_1771740542813499524_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHrZqus4pGaa6sMrX5SsnVaRoEIttCLHZBGgQi20IsdkALByIYnTDykIqFuxnH4UuLLCREXQldyiqxqmV-9tkCE&_nc_ohc=bTcoToFrhjgQ7kNvgHHwaE2&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=ArEfXHN9i3gYAsvuDtRvHVJ&oh=00_AYBvSW-Z-qryAUpuiF8AH7F_LueVSMzGGQd8ZMzH-TCI2w&oe=67B7C8D1)
 
 I'm a Software Engineering student with a passion for algorithms, data structures, and backend development. I thrive on solving complex problems and building efficient, scalable solutions.
 
